@@ -92,19 +92,20 @@ console.log(divide);
 let var1 = 1;
 let var2 = 2;
 
-if (var1 == var2) {
-  console.log("es correcto!");
-} else {
-  console.log("es incorrecto");
-}
+let comparison1 = var1 == var2;
+
+console.log(comparison1)
+
 
 // Ejercicio 11: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
 
-if (var1 != var2) {
-  console.log("true");
-}
+let comparison2 =   var1 != var2;
+
+console.log(comparison2);
+
+
 
 //Ejercicio 12: completa el ejercicio
 
