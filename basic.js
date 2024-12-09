@@ -52,6 +52,14 @@ console.log(coder);
 
 //Escribe tu código aquí
 
+console.log(typeof name)
+console.log(typeof luckyNumber);
+console.log(typeof isWinter);
+console.log(typeof students);
+console.log(typeof coders);
+console.log(typeof coso);
+console.log(typeof coso2);
+
 //OPERADORES ARITMÉTICOS
 //Ejercicio 6: Crea una varible que sume 2 números e imprime el resultado en consola.
 
